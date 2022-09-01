@@ -1,2 +1,1 @@
-Where am i?
-am improving today
+create a script that switches the current user to the user
