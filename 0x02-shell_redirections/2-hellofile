@@ -1,3 +1,2 @@
 #!/bin/bash
-Display the content
-echo "\"/etc/passwd
+cat/etc/passwd
