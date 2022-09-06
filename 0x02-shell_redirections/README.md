@@ -1,1 +1,1 @@
-Display the last 10 lines
+Write a script that writes into the file
