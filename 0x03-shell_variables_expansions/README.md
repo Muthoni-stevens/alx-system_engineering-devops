@@ -1,1 +1,1 @@
-Create a script that prints all possible combinations of two letters, except oo
+Write a script that prints every other line from the input, starting with the first line
