@@ -1,1 +1,1 @@
-Create a script that counts the number of directories in the PATH
+Write a script that converts a number from base 2 to base 10
